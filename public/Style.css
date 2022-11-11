@@ -602,8 +602,8 @@ transition: 0.5s;
 .fc-sec {color: #565656}
 .fc-blu1 {color: #56acdd}
 .fc-g {color: rgba(0, 47, 52, .64);}
-.fc-r {color: red;}
-.fc-w {color: white !important;}
+.fc-r {color: rgb(216, 66, 21);}
+.fc-w {color: rgb(255, 255, 255) !important;}
 .fc-o {color: orange !important;}
 .fc-blk {color: black !important;}
 
